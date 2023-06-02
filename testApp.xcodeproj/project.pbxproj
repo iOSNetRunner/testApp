@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		042C6BBB2A29F8FC00B57B62 /* TableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042C6BBA2A29F8FC00B57B62 /* TableTableViewController.swift */; };
 		60AA3BB32A29EF9800ECD8F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AA3BB22A29EF9800ECD8F4 /* AppDelegate.swift */; };
 		60AA3BB52A29EF9800ECD8F4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AA3BB42A29EF9800ECD8F4 /* SceneDelegate.swift */; };
 		60AA3BB72A29EF9800ECD8F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AA3BB62A29EF9800ECD8F4 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		042C6BBA2A29F8FC00B57B62 /* TableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableTableViewController.swift; sourceTree = "<group>"; };
 		60AA3BAF2A29EF9800ECD8F4 /* testApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60AA3BB22A29EF9800ECD8F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60AA3BB42A29EF9800ECD8F4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				60AA3BB22A29EF9800ECD8F4 /* AppDelegate.swift */,
 				60AA3BB42A29EF9800ECD8F4 /* SceneDelegate.swift */,
 				60AA3BB62A29EF9800ECD8F4 /* ViewController.swift */,
+				042C6BBA2A29F8FC00B57B62 /* TableTableViewController.swift */,
 				60AA3BB82A29EF9800ECD8F4 /* Main.storyboard */,
 				60AA3BBB2A29EF9A00ECD8F4 /* Assets.xcassets */,
 				60AA3BBD2A29EF9A00ECD8F4 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				042C6BBB2A29F8FC00B57B62 /* TableTableViewController.swift in Sources */,
 				60AA3BB72A29EF9800ECD8F4 /* ViewController.swift in Sources */,
 				60AA3BB32A29EF9800ECD8F4 /* AppDelegate.swift in Sources */,
 				60AA3BB52A29EF9800ECD8F4 /* SceneDelegate.swift in Sources */,
